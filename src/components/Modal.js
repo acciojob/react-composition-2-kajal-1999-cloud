@@ -45,4 +45,4 @@ Modal.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
-export default Modal;
+export default Modal ;
